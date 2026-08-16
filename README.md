@@ -1,6 +1,6 @@
 # Guru Gowda
 
-### Senior Unified Communications Engineer | Microsoft Teams | AI | Automation
+### Senior Unified Communications Esacalation Engineer | Microsoft Teams | AI | Automation
 
 I work at the intersection of **Microsoft Teams, Unified Communications, Microsoft 365, AI and automation**, solving complex enterprise technology problems and building practical tools that make troubleshooting and operations smarter.
 
