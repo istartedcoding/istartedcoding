@@ -22,6 +22,14 @@ My engineering journey has evolved from **Network Engineering → Unified Commun
 
 ## Featured Projects
 
+### GuruG Portfolio
+
+My personal portfolio bringing together engineering experience, AI and automation explorations, and selected projects. Built with React and TypeScript, with a mouse-controlled video hero, accessible navigation, and a standalone HTML build.
+
+[Live portfolio](https://extraordinary-kheer-070df4.netlify.app/) | [View the source](https://github.com/istartedcoding/gurug-portfolio)
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Portfolio`
+
 ### 🤖 ResolveAI
 **Intelligent Log Analysis for Microsoft Teams**
 
